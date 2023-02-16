@@ -1,0 +1,29 @@
+body {
+}
+
+.title {
+	text-align: center;
+}
+
+.nav-wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.nav-wrapper a {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.contact-title-wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.molding-moral-males-wrapper {
+	width: 60%;
+	border: 2px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
